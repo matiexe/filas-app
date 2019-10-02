@@ -1,8 +1,8 @@
 # Notas:
 
-Este es un pequeño servidor de express listo para ejecutarse y servir la carpeta public en la web.
+##Aplicacion de turnos para fila de atencion
 
-Recuerden que deben de reconstruir los módulos de node con el comando
+Aplicacion realizada en node y usando socktes
 
 ```
 npm install

@@ -4,6 +4,3 @@
 
 Aplicacion realizada en node y usando socktes
 
-```
-npm install
-```

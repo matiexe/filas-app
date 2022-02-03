@@ -1,8 +1,10 @@
-# Notas:
+# Turnero Socket
 
-##Aplicacion de turnos para fila de atencion
+### Aplicacion que permite gestionar turnos
 
 Aplicacion realizada en node y usando socktes
+
+## Instalar dependencias
 
 ```
 npm install
